@@ -5,7 +5,7 @@ SRC=main.c pcolor.c myf.c directions.c display.c
 HEADERS=myf.h pcolor.h
 
 #O binário executável (nome do programa)
-PROG=myf
+PROG=Othello
 
 #Ficheiro para o Doxygen
 DOXYFILE=Doxyfile
