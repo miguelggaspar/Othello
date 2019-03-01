@@ -20,14 +20,11 @@ opencv
 ### Examples
 
 
-Terminal mode:
-![test](https://i.imgur.com/4iQzREh.png)
-
-Opencv mode:
-![test](https://i.imgur.com/BMML531.png)
-
-![test](https://i.imgur.com/btxDfzz.png)
-
+Terminal mode:<br />
+<IMG src="https://i.imgur.com/4iQzREh.png" alt=""><br />
+Opencv mode:<br />
+<IMG src="https://i.imgur.com/BMML531.png" alt="" style="width:32.2%"><br />
+<IMG src="https://i.imgur.com/btxDfzz.png" alt="" style="width:32.2%">
 
 
 
